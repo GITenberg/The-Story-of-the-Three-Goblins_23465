@@ -1,0 +1,24 @@
+_repo: The-Story-of-the-Three-Goblins_23465
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taggart, Mabel G.
+    gutenberg_agent_id: '25860'
+    url: http://www.gutenberg.org/2009/agents/25860
+description: ''
+gutenberg_issued: '2007-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goblins -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Story of the Three Goblins
+url: http://www.gutenberg.org/ebooks/23465
